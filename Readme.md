@@ -39,3 +39,4 @@ All frontends work on the same set of smart contracts. (https://github.com/Embra
 
 ## References
 - Purpose Bound Money: https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/pbm/pbm-technical-whitepaper.pdf
+- EIP7291: https://github.com/ethereum/EIPs/pull/7292/files#diff-7e3ec42a3a5a5c70bee29475cf298cc832055216a9fc3588e83915e00744e66d
