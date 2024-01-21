@@ -36,3 +36,6 @@ All frontends work on the same set of smart contracts. (https://github.com/Embra
 - "Payment": "0x19f057A030F3E78fE8dE5D4d41Ff47886D569884",
 - "PBMDistributor": "0xa573b820f578995a62F7242d13F59A8d46B8ee37",
 - "GovHelper": "0xb09B025B2A5e1A2D8C790E6A27a3A4F49aF45b08"
+
+## References
+- Purpose Bound Money: https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/pbm/pbm-technical-whitepaper.pdf
